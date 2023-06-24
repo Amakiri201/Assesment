@@ -34,6 +34,7 @@ select#drop-down {
 
 .main {
   width: 100%;
+  overflow: hidden;
 }
 
 .top-hero {
@@ -504,6 +505,18 @@ span {
   margin: 43px 324px 155px 324px;
 }
 
+.FAQ-list-open {
+  flex-direction: column;
+ 
+}
+
+.FAQ-list-open div {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between !important;
+}
+
 .FAQs div h2 {
   color: #141414;
   font-size: 40px;
@@ -520,7 +533,6 @@ span {
   border-bottom: 1px solid #d6d6d6;
   text-align: left;
   margin-right: 24px;
-  gap: 40px;
 }
 
 .FAQ-list div {
