@@ -507,7 +507,14 @@ span {
 
 .FAQ-list-open {
   flex-direction: column;
- 
+}
+#faq-small-text {
+  color: #141414;
+  font-size: 16px;
+  font-family: Gilroy-Medium;
+  font-weight: 400;
+  line-height: 32px;
+  word-wrap: break-word;
 }
 
 .FAQ-list-open div {
