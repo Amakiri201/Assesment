@@ -1,0 +1,29 @@
+{
+  "name": "assesment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite dev",
+    "build": "vite build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amakiri201/Assesment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amakiri201/Assesment/issues"
+  },
+  "homepage": "https://github.com/Amakiri201/Assesment#readme",
+  "dependencies": {
+    "babel-loader": "^9.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^4.4.9"
+  }
+}
